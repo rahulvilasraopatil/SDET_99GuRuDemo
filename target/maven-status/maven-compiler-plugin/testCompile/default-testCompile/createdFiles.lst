@@ -1,0 +1,8 @@
+com\PageObjects\AddNewCustomerPage.class
+com\TestLayer\BaseClass.class
+com\Utilities\ReadConfig.class
+com\TestLayer\TC_002_AddNewCustomer.class
+com\PageObjects\LoginPage.class
+com\PageObjects\LogOutPAge.class
+com\TestLayer\TC_001_LoginTest.class
+com\TestLayer\TC_003_LogoutTest.class
